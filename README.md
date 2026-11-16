@@ -1,16 +1,13 @@
-## Hi there 👋
+## Projects
 
-<!--
-**13131323/13131323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Monocular RGB-Based Semantic-Geometric Fusion Embodied AI Architecture and Real-Time AR Implementation
+- AR-Based Physical Cube Album with AI Avatar and Interactive Content
+- Jamkkan Jeju – Jeju Tourism Mission and Travel Log Service
 
-Here are some ideas to get you started:
+## Awards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Gold Award – 2026 University Student IT Paper Competition (AI Convergence Applications Track)
+
+## Contact
+
+- Email: maymoon1235@gmail.com
