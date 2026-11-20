@@ -1,10 +1,10 @@
 ## Projects
 
 - Monocular RGB-Based Semantic-Geometric Fusion Embodied AI Architecture and Real-Time AR Implementation
-  - [GitHub Repository](github.com/ICT-CUBE/backend)
-  -  [Latest Development Branch](github.com/ICT-CUBE/backend/tree/be/dev-v2)
+  - [GitHub Repository](github.com/backtrap/CV-AR)
 - AR-Based Physical Cube Album with AI Avatar and Interactive Content
-  - [GitHub Organization](https://github.com/ICT-CUBE)
+  - [GitHub Repository](github.com/ICT-CUBE/backend)
+  - [Latest Development Branch](github.com/ICT-CUBE/backend/tree/be/dev-v2)
 - Jamkkan Jeju – Jeju Tourism Mission and Travel Log Service
   - [GitHub Repository](https://github.com/13131323/Jamkkanjeju)
   - [Latest Development Branch](https://github.com/13131323/Jamkkanjeju/tree/dev)
